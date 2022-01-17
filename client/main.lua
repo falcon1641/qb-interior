@@ -205,3 +205,37 @@ exports('CreateTrevorsShell', CreateTrevorsShell)
 exports('CreateCaravanShell', CreateCaravanShell)
 exports('CreateApartmentShell', CreateApartmentShell)
 exports('CreateApartmentFurnished', CreateApartmentFurnished)
+-- Warehouse Shells (addon) https://k4mb1.tebex.io/package/4673185
+exports('CreateWarehouse1', CreateWarehouse1)
+exports('CreateWarehouse2', CreateWarehouse2)
+exports('CreateWarehouse3', CreateWarehouse3)
+-- Highend Shells (addon) https://k4mb1.tebex.io/package/4673131
+exports('CreateHighend1', CreateHighend1)
+exports('CreateHighend2', CreateHighend2)
+exports('CreateHighend3', CreateHighend3)
+-- Deluxe Shells (addon) https://k4mb1.tebex.io/package/4673159
+exports('CreateHighend', CreateHighend)
+exports('CreateHighendV2', CreateHighendV2)
+exports('CreateMichael', CreateMichael)
+-- Office Shells (addon) https://k4mb1.tebex.io/package/4673258
+exports('CreateOffice2', CreateOffice2)
+exports('CreateOfficeBig', CreateOfficeBig)
+-- Store Shells (addon) https://k4mb1.tebex.io/package/4673264
+exports('CreateBarber', CreateBarber)
+exports('CreateGunstore', CreateGunstore)
+exports('CreateStore1', CreateStore1)
+exports('CreateStore2', CreateStore2)
+exports('CreateStore3', CreateStore3)
+-- Medium Housing Shells (addon) https://k4mb1.tebex.io/package/4672307
+exports('CreateFranklinAunt', CreateFranklinAunt)
+exports('CreateMedium2', CreateMedium2)
+exports('CreateMedium3', CreateMedium3)
+-- Drug Lab Shells (addon) https://k4mb1.tebex.io/package/4672285
+exports('CreateCoke', CreateCoke)
+exports('CreateCoke2', CreateCoke2)
+exports('CreateMeth', CreateMeth)
+exports('CreateWeed2', CreateWeed2)
+-- Garage Shells (addon) https://k4mb1.tebex.io/package/4673177
+exports('CreateGarageLow', CreateGarageLow)
+exports('CreateGarageMed', CreateGarageMed)
+exports('CreateGarageHigh', CreateGarageHigh)
